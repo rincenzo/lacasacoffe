@@ -1,0 +1,7 @@
+[{"id":1,"categoryId":1,"name":"Espresso","price":15000,"stock":50},
+{"id":2,"categoryId":1,"name":"Caffe Latte","price":24000,"stock":50},
+{"id":3,"categoryId":1,"name":"Kopi Susu Gula Aren","price":22000,"stock":60},
+{"id":4,"categoryId":2,"name":"Matcha Latte","price":26000,"stock":30},
+{"id":5,"categoryId":2,"name":"Chocolate","price":24000,"stock":30},
+{"id":6,"categoryId":3,"name":"Croissant","price":20000,"stock":20},
+{"id":7,"categoryId":3,"name":"Kentang Goreng","price":18000,"stock":25}]

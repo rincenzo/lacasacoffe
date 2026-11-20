@@ -1,0 +1,2 @@
+[{"id":1,"code":"TRX-0001","cashierId":2,"customerName":"Budi","createdAt":"2025-01-10T09:15:00.000Z","paymentStatus":"lunas","orderStatus":"selesai","total":46000,
+"items":[{"productId":2,"name":"Caffe Latte","price":24000,"qty":1},{"productId":3,"name":"Kopi Susu Gula Aren","price":22000,"qty":1}]}]
